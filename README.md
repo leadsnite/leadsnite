@@ -22,15 +22,15 @@ At **LeadsNite**, we specialize in building high-quality digital solutions desig
 
 **Web & Backend**
 
-* Vue, Nuxt, Django, FastAPI, Laravel, Spring
+* React, Vue, Next.js, Express.js, Node.js, Nuxt, Django, FastAPI, Laravel, Spring
 
 **Mobile**
 
-* Flutter, Kotlin, React Native
+* Flutter, Kotlin, React Native, firebase
 
 **AI & Automation**
 
-* Python, AI Agents, n8n, Make
+* Python, AI Agents, n8n, Make, Zapier
 
 **Cloud & Infrastructure**
 
@@ -38,7 +38,7 @@ At **LeadsNite**, we specialize in building high-quality digital solutions desig
 
 **Design**
 
-* Figma, Adobe XD
+* Figma, Adobe XD, Canva
 
 ---
 
